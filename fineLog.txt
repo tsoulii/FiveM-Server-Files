@@ -1,0 +1,8 @@
+Sat Jan 27 17:21:33 2018 => 4 fined 12 the amount of 200 for Reckless op/Fleeing
+Sat Jan 27 18:09:09 2018 => 4 fined 12 the amount of 100 for Reckless
+Mon Jan 29 21:05:42 2018 => 4 fined 14 the amount of 350 for Vehicle theft,Fleeing,wreckless
+Wed Feb  7 21:39:27 2018 => 54 fined 4 the amount of 100 for Speeding
+Mon Feb 12 20:44:59 2018 => 4 fined 11 the amount of 100 for Headlights/speed over 100
+
+Mon Feb 19 20:09:46 2018 => 114 fined 1 the amount of 100 for /
+Mon Feb 19 23:04:37 2018 => 1 fined 115 the amount of 100 for Test
