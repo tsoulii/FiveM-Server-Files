@@ -1,0 +1,1 @@
+spawnpoint 'a_f_m_downtown_01' { x = 3545.96, y = -4675.13, z = 114.18 } 
